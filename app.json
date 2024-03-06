@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Kingsmart Cyber",
       "required" :true
     },   
      
@@ -27,17 +27,17 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required" :false,    
-      "value": "sᴜʜᴀɪʟ-ᴍᴅ"
+      "value": "Kingsmart-MD"
     }, 
     "IMAGE": {
       "description": "Image for bot",
       "required" :false,    
-      "value": "https://telegra.ph/file/d5b1c3544fedc23e11a06.jpg"
+      "value": "IMG/20240305_200425.png"
     }, 
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required" :false,    
-      "value": "Asia/Karachi"
+      "value": "Africa/Nairobi"
     },  
     "FLUSH": {
       "description": " Make it 'true' if bot connected but not responed (After deployement!)",
