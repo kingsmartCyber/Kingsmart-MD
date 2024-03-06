@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://youtube.com/@suhailtechinfo">
-    <img alt="IMG" height="300" src="20240305_200425.png">
+    <img alt="url" height="300" src="20240305_200425.png">
   </a>
 </p>
     
