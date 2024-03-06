@@ -16,13 +16,13 @@
    
    
 <p align="center">
-  <a href="https://wa.me/+923184474178?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Suhail-Md+Repo" target="_blank">
+  <a href="https://wa.me/+254790741059?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kingsmart-MD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE" target="_blank">
+  <a aria-label="Suhail_Md is free to use" href="https://github.com/kingsmartCyber/Kingsmart-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
+  <a aria-label="Kingsmart-MD is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
     <img alt="SuhailTechInfo Yt" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
@@ -34,8 +34,8 @@
 
 
 
-<p align="center"> Suhail MD whatsapp bot uses
-  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Baileys.</a>
+<p align="center"> Kingsmart-MD whatsapp bot uses:
+  <a href="https://github.com/adiwajshing/Baileys">Multi-Device Bailey's.</a>
 </p>
 <p align="center">
   <img title="Whatsapp-Bot-Javascript" src="https://img.shields.io/badge/Javascript-363303?style=for-the-badge&logo=javascript&logoColor=c6c631"></img>
@@ -44,7 +44,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/SuhailTechInfo/Suhail-Md"><b>Suhail-Md</b></a> Support Deploy On...
+  <a href="(https://github.com/kingsmartCyber/Kingsmart-MD)"><b>Kingsmart-MD</b></a> Please Deploy On...
 </p>
 
 <p align="center">
@@ -106,7 +106,7 @@
 
 
 ### Thanks To
-- [Sam Pamday](https://github.com/Sampandey001) 
+- [kingsmart Cyber]([https://github.com/kingsmartCyber]
 
 
 The Suhail_Md is made available under the [GPL-3 license](https://github.com/SuhailTechInfo/Suhail-Md/blob/main/LICENCE).
@@ -116,7 +116,7 @@ The Suhail_Md is made available under the [GPL-3 license](https://github.com/Suh
 </h2>
    
 ## 
-- *Suhail-Md is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
+- *Kingsmart_MD is not made by `WhatsApp Inc.` Sometimes or misusing the bot might `ban` your `WhatsApp account!`*
 - *In that case, I'm not responsible for banning your account.*
 - *Use Suhail-Md at your own risk by keeping this warning in mind.*
 - [`heroku`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)
