@@ -1,7 +1,7 @@
 {
-   "name": "suhail-md",
+   "name": "Kingsmart-MD",
    "version": "1.2.9",
-   "description": "Multi device whatsapp bot by SuhailTechInfo.",
+   "description": "Multi device whatsapp bot by Kingsmart Cyber.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
