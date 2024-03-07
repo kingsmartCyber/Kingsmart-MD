@@ -1,5 +1,6 @@
+[![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=35&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Kingsmart-MD;I+am+Programmed+by+Kingsmart+Cyber;Kingsmart+Cyber+is+a+Self+made+Company;It+is+based+on+East+Africa-Kenya)]
  <h1 align="center"> KINGSMART MD </h1> 
- [![Gifted MD V.2.0.0](https://readme-typing-svg.demolab.com?font=Anton&size=35&pause=998&color=1FC40A&background=F7F2F20A&align=center&random=false&width=800&lines=Hello+Everyone%F0%9F%91%8B!;I+am+Kingsmart-MD;I+am+Programmed+by+Kingsmart+Cyber;Kingsmart+Cyber+is+a+Self+made+Company;It+is+based+on+East+Africa-Kenya)](https://github.com/Giftedmaurice/gifted-mdV2)
+ 
 
 <p align="center"> Introducing Kingsmart-MD, It is designed to bring a whole new level of excitement to your boring WhatsApp use. Hope you will like it. Good luck. </p>
 
