@@ -1,0 +1,8 @@
+build:
+  docker:
+      web: Kingsmart-MD
+run:
+  web: npm start
+ 
+
+  
