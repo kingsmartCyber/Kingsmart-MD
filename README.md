@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <a href="https://youtube.com/@suhailtechinfo">
+  <a href="https://whatsapp.com/channel/0029VaOe5HuKLaHjVPDUqQ18">
     <img alt="img" height="300" src="IMG/20240305_200425.png">
   </a>
 </p>
@@ -22,7 +22,7 @@
   <a href="https://wa.me/+254790741059?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+Kingsmart-MD+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
-  <a aria-label="Suhail_Md is free to use" href="https://github.com/kingsmartCyber/Kingsmart-MD/blob/main/LICENCE" target="_blank">
+  <a aria-label="Kingsmart-MD is free to use" href="https://github.com/kingsmartCyber/Kingsmart-MD/blob/main/LICENCE" target="_blank">
     <img alt="License: GPL-3" src="https://badges.frapsoft.com/os/gpl/gpl.png?v=103)](https://opensource.org/licenses/GPL-3.0/" target="_blank" />
   </a>
   <a aria-label="Kingsmart-MD is free to use" href="https://youtube.com/@suhailtechinfo" target="_blank">
@@ -92,11 +92,11 @@
 ---
 1.  ***Get `SESSION ID` by [`SCANING QR`](https://suhail-md-vtsf.onrender.com/) Or [`PARING CODE`](https://suhail-md-vtsf.onrender.com/code). Then `Go-to Whatapp>Three dots>Linked Devices`***
 2.  ***Get Mongodb_URI from [`Mongodb site`](https://www.mongodb.com/) | Watch Tutorial [`To Get Mongodb_URI`](https://youtu.be/6rnftFl0fAI). `Optional`***
-3.  ***Click [`FORK`](https://github.com/SuhailTechInfo/Suhail-Md/fork) and `Star ⭐ Repository` for Courage.***
+3.  ***Click [`FORK`](https://github.com/KingsmartCyber/Kingsmart-MD/fork) and `Star ⭐ Repository` for Courage.***
 4.  ***Deploy tutorial [`Youtube Video`](https://youtu.be/6rnftFl0fAI).***
 5.  ***Deploy FREE on `Codespace,` First see [`Codespace tutorial`](https://youtu.be/3NdJb6_1cJM)***
 6.  ***Deploy on [`HEROKU`](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FSuhailTechInfo%2FSuhail-)***
-7.  ***Deploy on [`Replit`](https://replit.com/github/SuhailTechInfo/Suhail-Md)***
+7.  ***Deploy on [`Replit`](https://replit.com/github/KingsmartCyber/Kingsmart-MD)***
 8.  ***Deploy on [`Railway`](https://railway.app/template/GZOvIe?referralCode=wVDLrh)***
 9.  ***Deploy on [`Koyeb`](https://app.koyeb.com/apps/deploy?type=git&repository=github.com/SuhailTechInfo/Suhail-Md&branch=main&env[SESSION_ID]&env[OWNER_NUMBER]=923184474176&env[MONGODB_URI]&&env[OWNER_NAME]=Suhail&env[KOYEB_API]&env[PREFIX]=.&env[WAPRESENCE]&env[AUTO_READ_STATUS]=false&env[DISABLE_PM]=false&env[PACK_AUTHER]=whatsapp+bot&env[PACK_NAME]=Suhail+MD&env[STYLE]=0&env[MODE]=private&env[READ_MESSAGE]=false&env[THEME]=SUHAIL&env[WARN_COUNT]=3&env[BLOCK_JID]=null&env[TIME_ZONE]=Asia/Karachi&name=suhail-md&env[KOYEB_NAME]=suhail-md&env[SUDO]=null&env[THUMB_IMAGE]=https://i.imgur.com/NpA3ZsJ.jpeg)***
 
