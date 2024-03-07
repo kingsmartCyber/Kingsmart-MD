@@ -19,8 +19,8 @@ global.DATABASE_URI = process.env.DATABASE_URL || ""
 
 global.timezone= process.env.TZ || process.env.TIME_ZONE || "Africa/Nairobi";
 global.github=process.env.GITHUB|| "https://github.com/kingsmartCyber/Kingsmart-MD";
-global.gurl  =process.env.GURL  || " ";
-global.website=process.env.GURL || " " ; 
+global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VaOe5HuKLaHjVPDUqQ18";
+global.website=process.env.GURL || "https://whatsapp.com/channel/0029VaOe5HuKLaHjVPDUqQ18" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "IMG/20240305_200425.png" ; // SET LOGO FOR IMAGE 
 
 
