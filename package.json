@@ -1,14 +1,14 @@
 {
    "name": "kingsmart-md",
    "version": "1.2.9",
-   "description": "Multi device whatsapp bot by KingsmartCyber.",
+   "description": "Multi device whatsapp bot by Kingsmart Cyber.",
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
             "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Suhail || node lib/smd.js",
             "start": "pm2 start lib/smd.js --attach --name Suhail || node lib/smd.js",
             "stop": "pm2 stop Suhail",
-            "heroku-postbuild": "git clone https://github.com/KingsmartCyber/Kingsmart-Md1.git temp1 && mv temp1/.git .git && rm -rf temp1"
+            "heroku-postbuild": "git clone https://github.com/KingsmartCyber/Kingsmart-Md.git temp1 && mv temp1/.git .git && rm -rf temp1"
    },
    "author": "KingmartCyber",
    "license" :"Apache-2.0",
@@ -72,8 +72,8 @@
    },
    "repository": {
       "type": "git",
-      "url": "git+https://github.com/KingmartCyber/Kingsmart-Md.git"
+      "url": "git+https://github.com/KingmartCyber/Kingsmart-MD.git"
    },
-   "bugs": { "url": "https://github.com/KingmartCyber/Kingsmart-Md/issues" },
-   "homepage": "https://github.com/KingmartCyber/Kingsmart-Md#readme"
+   "bugs": { "url": "https://github.com/KingmartCyber/Kingsmart-MD/issues" },
+   "homepage": "https://github.com/KingmartCyber/Kingsmart-MD#readme"
 }
